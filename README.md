@@ -22,3 +22,4 @@ Key Features & Technical Implementations:
 - Dynamic UI: Built a responsive frontend using React.js, ensuring a smooth user experience across devices.
 
 - State Management: Utilized React hooks to manage message history and user presence in real-time."
+<!-- Failed to upload "CODTECH Chat App - Task 2 - Google Chrome 2026-01-01 22-22-49.mp4" -->
