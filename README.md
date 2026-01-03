@@ -22,3 +22,5 @@ Key Features & Technical Implementations:
 - Dynamic UI: Built a responsive frontend using React.js, ensuring a smooth user experience across devices.
 
 - State Management: Utilized React hooks to manage message history and user presence in real-time."
+
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/987d0f09-8b5e-43e0-b79c-b3edf74a1b30" />
